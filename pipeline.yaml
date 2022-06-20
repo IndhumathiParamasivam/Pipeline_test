@@ -1,7 +1,7 @@
 # Bash
 # Run a Bash script on macOS, Linux, or Windows
 schedules:
-- cron: "12 14 * * *"
+- cron: "0 7 * * *"
   displayName: "scheduled"
   branches:
     include: 
